@@ -55,4 +55,6 @@ public class CollectionConstants {
 
     public static final int MAX_COLLECTION_RETURNED = 100;
 
+    public static final String I18N_PREFIX = "%i18n";
+
 }
